@@ -42,4 +42,7 @@ triggers:
   repos:
   - openshift-priv/assisted-installer
   trusted_apps:
+  - cve-automation
+  - dependabot
+  - red-hat-konflux
   - openshift-merge-bot

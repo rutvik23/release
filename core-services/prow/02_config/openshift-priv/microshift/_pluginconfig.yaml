@@ -32,4 +32,5 @@ triggers:
   repos:
   - openshift-priv/microshift
   trusted_apps:
+  - microshift-rebase-script
   - openshift-merge-bot

@@ -32,4 +32,5 @@ triggers:
   repos:
   - openshift-priv/thanos
   trusted_apps:
+  - openshift-monitoring-bot
   - openshift-merge-bot

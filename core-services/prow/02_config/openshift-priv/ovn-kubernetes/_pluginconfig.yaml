@@ -32,4 +32,5 @@ triggers:
   repos:
   - openshift-priv/ovn-kubernetes
   trusted_apps:
+  - openshift-pr-manager
   - openshift-merge-bot

@@ -40,4 +40,5 @@ triggers:
   repos:
   - openshift-priv/openstack-sushy
   trusted_apps:
+  - ironic-merge-bot
   - openshift-merge-bot

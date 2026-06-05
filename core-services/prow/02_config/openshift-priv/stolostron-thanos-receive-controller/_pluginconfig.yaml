@@ -22,4 +22,5 @@ triggers:
   repos:
   - openshift-priv/stolostron-thanos-receive-controller
   trusted_apps:
+  - red-hat-konflux
   - openshift-merge-bot

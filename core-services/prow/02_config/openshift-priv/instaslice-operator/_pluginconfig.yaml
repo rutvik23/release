@@ -42,4 +42,7 @@ triggers:
   repos:
   - openshift-priv/instaslice-operator
   trusted_apps:
+  - dependabot
+  - renovate-bot
+  - red-hat-konflux
   - openshift-merge-bot

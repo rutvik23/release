@@ -24,4 +24,5 @@ triggers:
   repos:
   - openshift-priv/stolostron-multicloud-operators-channel
   trusted_apps:
+  - magic-mirror-bot
   - openshift-merge-bot

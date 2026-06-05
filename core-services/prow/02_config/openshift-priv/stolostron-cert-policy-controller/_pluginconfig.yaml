@@ -24,4 +24,6 @@ triggers:
   repos:
   - openshift-priv/stolostron-cert-policy-controller
   trusted_apps:
+  - red-hat-konflux
+  - dependabot
   - openshift-merge-bot

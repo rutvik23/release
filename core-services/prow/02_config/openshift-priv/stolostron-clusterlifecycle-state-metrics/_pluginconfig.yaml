@@ -23,4 +23,6 @@ triggers:
   repos:
   - openshift-priv/stolostron-clusterlifecycle-state-metrics
   trusted_apps:
+  - red-hat-konflux
+  - dependabot
   - openshift-merge-bot

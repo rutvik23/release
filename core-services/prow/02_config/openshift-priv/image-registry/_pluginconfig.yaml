@@ -32,4 +32,5 @@ triggers:
   repos:
   - openshift-priv/image-registry
   trusted_apps:
+  - dependabot
   - openshift-merge-bot

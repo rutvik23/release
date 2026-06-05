@@ -37,4 +37,5 @@ triggers:
   repos:
   - openshift-priv/cluster-image-registry-operator
   trusted_apps:
+  - dependabot
   - openshift-merge-bot

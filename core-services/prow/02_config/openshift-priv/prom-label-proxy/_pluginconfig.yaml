@@ -32,4 +32,5 @@ triggers:
   repos:
   - openshift-priv/prom-label-proxy
   trusted_apps:
+  - openshift-monitoring-bot
   - openshift-merge-bot
