@@ -178,6 +178,7 @@ presubmits:
     branches:
     - ^release-4\.23$
     - ^release-4\.23-
+    cluster: build05
     context: ci/prow/e2e-agent-connected-ovn-ipv4-metal-backuprestore
     decorate: true
     decoration_config:
@@ -2105,6 +2106,7 @@ presubmits:
     branches:
     - ^release-4\.23$
     - ^release-4\.23-
+    cluster: build05
     context: ci/prow/e2e-kubevirt-metal-ovn-backuprestore
     decorate: true
     decoration_config:
